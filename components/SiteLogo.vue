@@ -2,11 +2,12 @@
   <div class="logo-wrapper">
     <div
       :class="{
-        'logo-inner': true,
-        blink: blinking
+        // 'logo-inner': true,
+        // blink: blinking
       }"
     >
-      <img
+      <h1>prsOldGuy</h1>
+      <!-- <img
         v-for="x in frames"
         :key="x"
         :src="`/logo-frames/logo-f${x - 1}.svg`"
@@ -15,7 +16,7 @@
         v-for="x in frames"
         :key="`${x}-r`"
         :src="`/logo-frames/logo-f${frames - x}.svg`"
-      />
+      /> -->
     </div>
   </div>
 </template>
@@ -24,16 +25,16 @@ export default {
   name: 'SiteLogo',
   data() {
     return {
-      frames: 5,
-      currentFrame: 1,
-      blinking: true
+      // frames: 5,
+      // currentFrame: 1,
+      // blinking: true
     }
   },
   mounted() {
-    setInterval(() => {
-      const rand = Math.ceil(Math.random() * 10)
-      this.blinking = rand % 2
-    }, 1000)
+    // setInterval(() => {
+    //   const rand = Math.ceil(Math.random() * 10)
+    //   this.blinking = rand % 2
+    // }, 1000)
   }
 }
 </script>

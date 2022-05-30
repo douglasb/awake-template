@@ -1,17 +1,15 @@
 ---
-title: Built For Speed
-subtitle: Awake is Built to Be Blazing Fast
+title: MPA Hybrid Chassis
+subtitle: 2021 Granade sale buy
 category:
-  - About Awake
-author: Daniel Kelly
-date: 2019-08-02T04:27:56.800Z
-featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
+  - For Sale
+author: Douglas Brown
+date: 2022-05-31
+featureImage: /uploads/mpa-chassis-hero.jpg
 ---
-Awake is fast for a couple different reasons. It both capitalizes on the platform it's built for (JAM Stack) and the framework it's built on (Nuxt.js) as well as includes some intentional optimizations to improve the end user experience when it comes to speed. 
+## MPA Hybrid Stock
 
-## The JAM Stack
-
-The JAM stack is a way of building websites that compile down basically to html, css, and javascript and then is served over a CDN. API's are then sprinkled in to add more advanced functionality where needed. Because there is no server, no computations to run, initial response time is like lightening. 
+I was thinking about building a rifle for hunting, but I've decided to go another route. This is an awesome chassis and given it was part of the last years Granade Sale, the perfect fit for someone, just not me.  Never been used and Barrel/Action screws are included.
 
 ## Nuxt.js
 

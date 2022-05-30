@@ -19,7 +19,8 @@
           v-if="$slots.default"
           class="under-subtitle animated fadeInDown slower"
         >
-          <slot />
+          <!-- email button -->
+          <!-- <slot /> -->
         </div>
       </div>
     </div>
@@ -127,7 +128,7 @@ export default {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.65);
+    background: rgba(0, 0, 0, 0);
     position: absolute;
   }
   .hero-body {
