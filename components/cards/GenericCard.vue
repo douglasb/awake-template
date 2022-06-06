@@ -19,6 +19,7 @@
       <div class="media">
         <div class="media-content">
           <nuxt-link :to="link">
+            <p>{{ status }}</p>
             <h3
               :class="
                 `title
@@ -36,6 +37,7 @@
                 'empty-content-placeholder': !$slots.default
               }"
             >
+              <p>{{ price }}</p>
               <slot></slot>
             </h4>
           </nuxt-link>
@@ -48,9 +50,11 @@
 const imageDimensionDefault = '16x9'
 export default {
   props: {
+    status: { type: String, default: '' },
     title: { type: String, default: '' },
     image: { type: String, default: '' },
     link: { type: String, default: '' },
+    price: { type: String, default: '' },
     imageDimensions: { type: String, default: imageDimensionDefault }
   },
   computed: {
