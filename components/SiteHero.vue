@@ -30,8 +30,8 @@
 export default {
   name: 'SiteHero',
   props: {
-    title: { type: String, default: '' },
-    subtitle: { type: String, default: '' },
+    title: { type: String, default: 'Do not reinforce bad shots by remembering them' },
+    subtitle: { type: String, default: 'blah blah' },
     image: { type: String, default: '' },
     color: { type: String, default: '#469af0' },
     theme: { type: String, default: '' }
@@ -128,7 +128,7 @@ export default {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0);
+    background: rgba(0, 0, 0, .3);
     position: absolute;
   }
   .hero-body {

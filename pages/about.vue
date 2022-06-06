@@ -8,41 +8,24 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
-          <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
+          <h1>About prsOldGuy</h1>
+          <p>Born in Canada living in the Carolinas since Jr. High, proud to call the Carolina’s my home for more than 40 years.  I am as southern as a southerner will allow me to be.</p>
+          <p>A relative newcomer to the the community, I'm focusing on the following areas:
+            <ul>
+              <li>Competing as a Senior in PRS club and national matches</li>
+              <li>Hunting</li>
+              <li>Reloading</li>
+              <li>Practical hand gun training.</li>
+            </ul>
+            <h3>Current Challenges</h3>
+            <p>A knee replacement late 2021 has not progressed as would like and I'm still getting used to the new hardware and what it means for position building during PRS matches.</p>
           </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-
-          <h3>Another Fake Heading</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
+          <p><a href="https://www.precisionrifleseries.com/s/13857/prsoldguy/">Precision Rifle Series Profile</a></p>
+          <p><a href="https://www.facebook.com/douglasbrownca"></a>Facebook</p>
           <quote-card />
-          <h3>Still More Fake Content</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
-          </p>
         </div>
 
-        <div class="tile is-ancestor">
+        <!-- <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
@@ -82,7 +65,7 @@
               </figure>
             </article>
           </div>
-        </div>
+        </div> -->
       </template>
 
       <template v-slot:sidebar>

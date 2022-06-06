@@ -11,11 +11,11 @@
       </button>
     </site-hero>
     <main-section theme="one-column">
-    <div class="content">
-      <h2>For Sale</h2>
-      <p>Making some changes in my system so I'm selling what I don't need.</p>
-    </div>
-      <template v-slot:default>
+        <template v-slot:default>
+        <div class="content">
+          <h2>For Sale</h2>
+          <p>Making some changes in my system so I'm selling what I don't need.</p>
+        </div>
         <posts-grid />
       </template>
       <template v-slot:sidebar>

@@ -1,8 +1,10 @@
 <template>
   <generic-card
+    :status="status"
     :title="title"
     :image="image"
     :link="link"
+    :price="price"
     :image-dimensions="
       $siteConfig.posts.imageDimensions ||
         $siteConfig.cards.imageDimensions ||
@@ -27,6 +29,10 @@ import { getFormattedDate } from '~/helper'
 export default {
   components: { GenericCard },
   props: {
+    status: {
+      type: String,
+      default: ''
+    },
     title: {
       type: String,
       default: ''
@@ -44,6 +50,10 @@ export default {
       default: ''
     },
     author: {
+      type: String,
+      default: ''
+    },
+    price: {
       type: String,
       default: ''
     }

@@ -22,7 +22,7 @@
             <!-- Related Posts -->
             <posts-grid :number="3" :category="category" :exclude="slug" />
           </div>
-          <disqus-comments :identifier="$route.params.singlePost" />
+          <!-- <disqus-comments :identifier="$route.params.singlePost" /> -->
         </div>
       </template>
       <template v-slot:sidebar>
@@ -44,6 +44,7 @@ export default {
   },
   computed: {
     ...mapState([
+      'status',
       'title',
       'subtitle',
       'featureImage',
@@ -67,5 +68,8 @@ export default {
 <style scoped lang="scss">
 .edit-post {
   margin-bottom: 20px;
+}
+.other-posts {
+  margin-top:60px;
 }
 </style>
