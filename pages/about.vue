@@ -87,4 +87,5 @@ export default {
   }
   // components: { QuoteCard }
 }
+
 </script>
