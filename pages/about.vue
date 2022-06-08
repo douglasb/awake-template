@@ -22,7 +22,7 @@
           </p>
           <p><a href="https://www.precisionrifleseries.com/s/13857/prsoldguy/">Precision Rifle Series Profile</a></p>
           <p><a href="https://www.facebook.com/douglasbrownca"></a>Facebook</p>
-          <quote-card />
+           <!-- <quote-card /> -->
         </div>
 
         <!-- <div class="tile is-ancestor">
@@ -78,13 +78,13 @@
   </div>
 </template>
 <script>
-import QuoteCard from '~/components/cards/QuoteCard'
+// import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
     return {
       title: `About | ${this.$siteConfig.siteName}`
     }
   },
-  components: { QuoteCard }
+ // components: { QuoteCard }
 }
 </script>
