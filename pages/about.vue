@@ -21,8 +21,8 @@
             <p>A knee replacement late 2021 has not progressed as would like and I'm still getting used to the new hardware and what it means for position building during PRS matches.</p>
           </p>
           <p><a href="https://www.precisionrifleseries.com/s/13857/prsoldguy/">Precision Rifle Series Profile</a></p>
-          <p><a href="https://www.facebook.com/douglasbrownca"></a>Facebook</p>
-           <!-- <quote-card /> -->
+          <p><a href="https://www.facebook.com/douglasbrownca">Facebook</a></p>
+          <!-- <quote-card /> -->
         </div>
 
         <!-- <div class="tile is-ancestor">
@@ -84,7 +84,8 @@ export default {
     return {
       title: `About | ${this.$siteConfig.siteName}`
     }
-  },
- // components: { QuoteCard }
+  }
+  // components: { QuoteCard }
 }
+
 </script>
