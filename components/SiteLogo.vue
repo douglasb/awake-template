@@ -1,23 +1,6 @@
 <template>
   <div class="logo-wrapper">
-    <div
-      :class="{
-        // 'logo-inner': true,
-        // blink: blinking
-      }"
-    >
-      <h1>prsOldGuy</h1>
-      <!-- <img
-        v-for="x in frames"
-        :key="x"
-        :src="`/logo-frames/logo-f${x - 1}.svg`"
-      />
-      <img
-        v-for="x in frames"
-        :key="`${x}-r`"
-        :src="`/logo-frames/logo-f${frames - x}.svg`"
-      /> -->
-    </div>
+      <img src="prsoldguylogo.png" />
   </div>
 </template>
 <script>
@@ -48,7 +31,10 @@ export default {
   position: relative;
   height: 50px;
   overflow: hidden;
-  width: 200px;
+  width: 400px;
+   img {
+    margin-top:5px;
+   }
   .logo-inner {
     position: absolute;
     height: 500px;

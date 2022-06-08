@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  // siteName: '',
-  tagline: '',
+  // siteName: 'PRS OldGuy',
+  tagline: '~ Lenny Basham',
   featureImage: '/uploads/hero2.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -27,13 +27,14 @@ export default {
       link: '/about'
     },
     {
-      name: 'Contact',
-      link: '/contact'
-    },
-    {
-      name: 'Everything',
+      name: 'Posts',
       link: '/categories'
     }
+    // {
+    //   name: 'Contact',
+    //   link: '/contact'
+    // }
+
     // {
     //   name: 'Github Repo',
     //   link: 'https://github.com/danielkellyio/awake-template',
