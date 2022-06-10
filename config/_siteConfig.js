@@ -27,7 +27,7 @@ export default {
       link: '/about'
     },
     {
-      name: 'For Sale / Articles',
+      name: 'For Sale | Articles',
       link: '/categories'
     }
     // {
