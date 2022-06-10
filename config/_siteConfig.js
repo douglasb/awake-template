@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  // siteName: 'PRS OldGuy',
+  siteName: 'PRS OldGuy',
   tagline: '~ Lenny Basham',
   featureImage: '/uploads/hero2.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
@@ -27,7 +27,7 @@ export default {
       link: '/about'
     },
     {
-      name: 'Posts',
+      name: 'For Sale / Articles',
       link: '/categories'
     }
     // {

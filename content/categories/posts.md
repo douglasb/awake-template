@@ -1,5 +1,5 @@
 ---
-name: Posts
-image: https://picsum.photos/1800/1801
+name: Randomly written articles
+image: /uploads/posts.jpg
 ---
 Randomly written articles

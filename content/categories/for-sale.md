@@ -1,5 +1,5 @@
 ---
 name: For Sale
-image: https://picsum.photos/1800/1801
+image: /uploads/bench.jpg
 ---
 Equipment no longer needed
