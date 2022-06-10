@@ -31,7 +31,7 @@ export default {
   position: relative;
   height: 50px;
   overflow: hidden;
-  width: 400px;
+  width: 300px;
    img {
     margin-top:5px;
    }
