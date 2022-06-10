@@ -30,8 +30,8 @@
 export default {
   name: 'SiteHero',
   props: {
-    title: { type: String, default: 'Do not reinforce bad shots by remembering them' },
-    subtitle: { type: String, default: 'blah blah' },
+    title: { type: String, default: '' },
+    subtitle: { type: String, default: '' },
     image: { type: String, default: '' },
     color: { type: String, default: '#469af0' },
     theme: { type: String, default: '' }

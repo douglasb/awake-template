@@ -8,7 +8,9 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h1>About prsOldGuy</h1>
+          <h1>prsOldGuy</h1>
+          <p>After 30+ years of working behind a computer, that time has taken a toll on my body and I wanted to get back out and do what I love the most: be outside and compete. They say sitting is the new smoking and I agree.  So I'm taking this out of shape 58 3/4 year old body and getting it into mountain tough and into a better place.</p>
+          <p>I am interesting in building a community of Senior PRS competitors (55+) and the challenges we face in competition that younger bodies don't have to navigate. Like knee replacements (6 mos since surgery) and a hip replacement (7 yrs out), etc.</p>
           <p>Born in Canada living in the Carolinas since Jr. High, proud to call the Carolina’s my home for more than 40 years.  I am as southern as a southerner will allow me to be.</p>
           <p>A relative newcomer to the the community, I'm focusing on the following areas:
             <ul>
@@ -17,11 +19,9 @@
               <li>Reloading</li>
               <li>Practical hand gun training.</li>
             </ul>
-            <h3>Current Challenges</h3>
-            <p>A knee replacement late 2021 has not progressed as would like and I'm still getting used to the new hardware and what it means for position building during PRS matches.</p>
           </p>
-          <p><a href="https://www.precisionrifleseries.com/s/13857/prsoldguy/">Precision Rifle Series Profile</a></p>
-          <p><a href="https://www.facebook.com/douglasbrownca">Facebook</a></p>
+          <!-- p><a href="https://www.precisionrifleseries.com/s/13857/prsoldguy/">Precision Rifle Series Profile</a></p -->
+          <p>Reach out to me on <a href="https://www.facebook.com/douglasbrownca">Facebook</a> Send me a DM if you want to connect</p>
           <!-- <quote-card /> -->
         </div>
 
