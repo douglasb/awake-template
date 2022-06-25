@@ -1,12 +1,12 @@
 ---
 
-title: MPA Hybrid Chassis
+title: New MPA Hybrid Chassis
 subtitle: 2021 Granade sale buy
 category:
   - For Sale
 status: For Sale
 author: Douglas Brown
-price: 600.00 + Shipping
+price: 265.00 shipped
 date: 2022-05-31
 featureImage: /uploads/mpa-chassis-hero.jpg
 ---
@@ -20,7 +20,7 @@ I was thinking about building a rifle for hunting, but I've decided to go anothe
 | ------------------| ---------------------------------------------------- |
 | Condition         | New, never been used                                 |
 | Blemishes         | MPA Granade Sale                                     |
-| Price             | 600.00 + Shipping              |
+| Price             | 625.00 shipped              |
 | Purchase Date     | Purchased 5/28/2021                                  |
 
 ![mpa-hybrid-chassis!!](/uploads/mpahybrid1.jpg)
