@@ -10,22 +10,77 @@
         <div class="content">
           <h1>prsOldGuy</h1>
           <p>After 30+ years of working behind a computer, that time has taken a toll on my body and I wanted to get back out and do what I love the most: be outside and compete. They say sitting is the new smoking and I agree.  So I'm taking this out of shape 58 3/4 year old body and getting it into mountain tough and into a better place.</p>
-          <p>I am interesting in building a community of Senior PRS competitors (55+) and the challenges we face in competition that younger bodies don't have to navigate. Like knee replacements (6 mos since surgery) and a hip replacement (7 yrs out), etc.</p>
-          <p>Born in Canada living in the Carolinas since Jr. High, proud to call the Carolina’s my home for more than 40 years.  I am as southern as a southerner will allow me to be.</p>
-          <p>A relative newcomer to the the community, I'm focusing on the following areas:
+          <p>Born in Canada living in the Carolinas since Jr. High, I am proud to call the Carolina’s my home for more than 40 years.</p>
+          <p>I got a lot of bad advice on Facebook, so I don't really pay too much attention to the facebook groups, even the ones I belong too.  Instead, just getting out there and developing friendships and finding good people to train with is the path that seems to work the best for me.</p>
+          <p>I'm a relative newcomer to the community, but it's useful to see what others are doing.</p>
+
+          <!-- <p>A relative newcomer to the the community, I'm focusing on the following areas:
             <ul>
               <li>Competing as a Senior in PRS club and national matches</li>
               <li>Hunting</li>
               <li>Reloading</li>
               <li>Practical hand gun training.</li>
             </ul>
-          </p>
+          </p> -->
           <!-- p><a href="https://www.precisionrifleseries.com/s/13857/prsoldguy/">Precision Rifle Series Profile</a></p -->
-          <p>Reach out to me on <a href="https://www.facebook.com/douglasbrownca">Facebook</a> Send me a DM if you want to connect</p>
-          <!-- <quote-card /> -->
+        <div class="dataColumns">
+            <div class="dataColumn">
+              <span class="head">What I run for 2022</span>
+              <p>
+                 <a href="https://dnafirearmsystems.com/" target="_blank">DNA Seventy5 Stainless Bolt Action</a><br/>
+                 Hawk Hill Custom, Chambered in 6mm Creedmoor<br/>
+                 MDT ACC Chassis<br/>
+                 MDT Scope Rings<br>
+                 MDT Brake <br>
+                 Athon Cronus BTR Scope <br>
+                 Berger 108 BTHP <br>
+                 Lapua & Peterson Brass<br>
+                 Reloader 16</br>
+              </p>
+            </div>
+            <div class="dataColumn">
+              <span class="head">Products I use:</span>
+              <p>
+                Dillon 550c <br>
+                Forester CoAx Press <br>
+                K&M Arbor Press<br>
+                Redding Competition Dies <br>
+                Wilson Chamber Dies <br>
+                Giraud Trimmer <br>
+                Amp Anealer <br>
+                Berger Bullets (target and hunting) <br>
+                Hornady Bullet (hunting) <br>
+                Alliant, Vithouriouri, and Ramshot
+              </p>
+            </div>
+            <div class="dataColumn">
+              <span class="head">Who I learn from:</span>
+              <p>
+                Cole Hefner (shooting buddy)  <br>
+                <a href="https://en.wikipedia.org/wiki/Lanny_Bassham" target="_blank">Lenny Bassham</a> <a href="https://en.wikipedia.org/wiki/Lanny_Bassham" target="_blank">With Winning In Mind</a><br>
+                <a href="https://riflemanspath.com/" target="_blank">Andy Slade, Rifleman’s Path</a> <br>
+                <a href="https://www.shootsmallgroups.com/community/" target="_blank">Eric Cortina</a><br>
+                <a href="https://kestrelballistics.com/classes" target="_blank">Emil Praslick (Kestrel Seminar)</a><br>
+
+                Everyone at each PRS Match I shoot
+              </p>
+
+                <span class="head">Communities I belong too:</span>
+                <p>
+                    <a href="https://www.facebook.com/groups/608520689301867" target="_blank">VPRC</a> Club Team<br>
+                    <a href="https://www.facebook.com/groups/alanticcoastregion/" target="_blank">PRS Atlantic Cost Conference</a><br>
+                    <a href="https://www.facebook.com/groups/precisionrifleseries" target="_blank">PRS Paid Members</a> <br>
+                </p>
+
+            </div>
         </div>
 
-        <!-- <div class="tile is-ancestor">
+        <h2>Reach out</h2>
+         <p>Reach out to me on <a href="https://www.facebook.com/prsoldguy1">Facebook</a> Send me a DM if you want to connect about items for sale or respond to the SnipersHide post that brought you here.</p>
+         <!-- <p>PRS Profile</p> -->
+          <!-- <quote-card /> -->
+        </div>
+      <!-- <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
@@ -89,3 +144,19 @@ export default {
 }
 
 </script>
+<style scoped lang="scss">
+.dataColumns {
+  display:flex;
+  margin:20px 0;
+}
+.dataColumn {
+  width:30%;
+  padding:0 15px;
+  .head {
+    font-weight: 600;
+    font-size:16px;
+    margin-bottom:10px;
+    display:inline-block;
+  }
+}
+</style>

@@ -5,7 +5,7 @@ subtitle: Used only once
 category:
   - For Sale
 author: Douglas Brown
-price: $200 + shipping
+price: $215.00 shipped
 date: 2019-07-29T17:30:16.858Z
 featureImage: /uploads/eberlestock-upranger.jpg
 ---
@@ -24,7 +24,7 @@ Inspired by a champion 3-Gunner who didn’t like the normal sequence of dismoun
 | ------------------| ---------------------------------------------------- |
 | Condition         | Lightly used                                   |
 | Blemishes         | None                                        |
-| Price             | 200.00 + Shipping                                    |
+| Price             | $215 shipped                                    |
 | Age               | Purchased 6/10/2021                                  |
 | Included          | Waistbelt and additional dividers                    |
 |                   |                                                      |

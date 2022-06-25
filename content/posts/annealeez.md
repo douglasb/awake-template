@@ -7,7 +7,7 @@ category:
 author: Douglas Brown
 date: 2019-07-24T19:59:59.000Z
 featureImage: /uploads/annealeez-hero.jpg
-price: 195.00 + shipping
+price: 205.00 shipped
 ---
 ## Annealeeze Version 2
 
@@ -19,7 +19,7 @@ This is a dependable unit that knocks out 100 rounds with little need for attent
 | ------------------| ---------------------------------------------------- |
 | Condition         | Used                              |
 | Blemishes         | I had an issue with the flame 1st time out, you can see the mark on the wheel, but does not affect the performance             |
-| Price             | 195.00 + Shipping               |
+| Price             | 205.00 Includes Shipping Lower 48              |
 | Purchase Date     | Purchased 3/15/2021                                  |
 | Contact Info      |                                                      |
 | Addtional         | Wheels are for large caliber brass only.  Propane connection and power cord included |
