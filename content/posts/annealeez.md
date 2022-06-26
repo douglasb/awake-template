@@ -37,4 +37,4 @@ This is a dependable unit that knocks out 100 rounds with little need for attent
 
 Prices listed are fair and final and I'm not interested in negotiating so if you're wanting to haggle don't reach out and waste your time and mine. 
 ## Contact
-Reach out to me on [Facebook](https://www.facebook.com/douglasbrownca) and DM me if you're intersted or use the post from Snipe Hide.
+Reach out to me on [Facebook](https://www.facebook.com/douglasbrownca) and DM me if you're intersted or use the post from Snipers Hide.
