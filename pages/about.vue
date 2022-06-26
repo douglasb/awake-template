@@ -9,68 +9,57 @@
       <template v-slot:default>
         <div class="content">
           <h1>prsOldGuy</h1>
-          <p>After 30+ years of working behind a computer, that time has taken a toll on my body and I wanted to get back out and do what I love the most: be outside and compete. They say sitting is the new smoking and I agree.  So I'm taking this out of shape 58 3/4 year old body and getting it into mountain tough and into a better place.</p>
+          <p>After 30+ years of working behind a computer, that time has taken a toll on my body and I wanted to get back out and do what I love the most: be outside and compete. So I'm taking this out of shape 58 3/4 year old body and getting it into mountain tough shape and into a better place.</p>
           <p>Born in Canada living in the Carolinas since Jr. High, I am proud to call the Carolina’s my home for more than 40 years.</p>
           <p>I got a lot of bad advice on Facebook, so I don't really pay too much attention to the facebook groups, even the ones I belong too.  Instead, just getting out there and developing friendships and finding good people to train with is the path that seems to work the best for me.</p>
           <p>I'm a relative newcomer to the community, but it's useful to see what others are doing.</p>
-
-          <!-- <p>A relative newcomer to the the community, I'm focusing on the following areas:
-            <ul>
-              <li>Competing as a Senior in PRS club and national matches</li>
-              <li>Hunting</li>
-              <li>Reloading</li>
-              <li>Practical hand gun training.</li>
-            </ul>
-          </p> -->
-          <!-- p><a href="https://www.precisionrifleseries.com/s/13857/prsoldguy/">Precision Rifle Series Profile</a></p -->
         <div class="dataColumns">
             <div class="dataColumn">
               <span class="head">What I run for 2022</span>
-              <p>
-                 <a href="https://dnafirearmsystems.com/" target="_blank">DNA Seventy5 Stainless Bolt Action</a><br/>
-                 Hawk Hill Custom, Chambered in 6mm Creedmoor<br/>
-                 MDT ACC Chassis<br/>
-                 MDT Scope Rings<br>
-                 MDT Brake <br>
-                 Athon Cronus BTR Scope <br>
-                 Berger 108 BTHP <br>
-                 Lapua & Peterson Brass<br>
-                 Reloader 16</br>
-              </p>
+              <ul>
+                <li><a href="https://dnafirearmsystems.com/" target="_blank">DNA Seventy5 Stainless Bolt Action</a></li>
+                 <li>6mm Creedmoor Hawk Hill barrel, 1:7.5 twist</li>
+                 <li>MDT ACC Chassis</li>
+                 <li>MDT Scope Ring</li>
+                 <li>MDT Brake</li>
+                 <li>Athon Cronus BTR Scope</li>
+                 <li>Berger 108 BTHP</li>
+                 <li>Lapua & Peterson Brass</li>
+                 <li>Reloader 16</li>
+              </ul>
             </div>
             <div class="dataColumn">
-              <span class="head">Products I use:</span>
-              <p>
-                Dillon 550c <br>
-                Forester CoAx Press <br>
-                K&M Arbor Press<br>
-                Redding Competition Dies <br>
-                Wilson Chamber Dies <br>
-                Giraud Trimmer <br>
-                Amp Anealer <br>
-                Berger Bullets (target and hunting) <br>
-                Hornady Bullet (hunting) <br>
-                Alliant, Vithouriouri, and Ramshot
-              </p>
+              <span class="head">Products I use</span>
+              <ul>
+                <li>Dillon 550c</li>
+                <li>Forester CoAx Press</li>
+                <li>K&M Arbor Pres</li>
+                <li>Redding Competition Dies</li>
+                <li>Wilson Chamber Dies</li>
+                <li>Giraud Trimmer</li>
+                <li>Amp Anealer</li>
+                <li>Berger Bullets</li>
+                <li>Hornady Bullets</li>
+                <li>Alliant, Vihtavuori, and Ramshot</li>
+              </ul>
             </div>
             <div class="dataColumn">
-              <span class="head">Who I learn from:</span>
-              <p>
-                Cole Hefner (shooting buddy)  <br>
-                <a href="https://en.wikipedia.org/wiki/Lanny_Bassham" target="_blank">Lenny Bassham</a> <a href="https://en.wikipedia.org/wiki/Lanny_Bassham" target="_blank">With Winning In Mind</a><br>
-                <a href="https://riflemanspath.com/" target="_blank">Andy Slade, Rifleman’s Path</a> <br>
-                <a href="https://www.shootsmallgroups.com/community/" target="_blank">Eric Cortina</a><br>
-                <a href="https://kestrelballistics.com/classes" target="_blank">Emil Praslick (Kestrel Seminar)</a><br>
+              <span class="head">Who I learn from</span>
+              <ul>
+                <li>Cole Hefner (shooting buddy)</li>
+                <li><a href="https://en.wikipedia.org/wiki/Lanny_Bassham" target="_blank">Lenny Bassham</a><br><a href="https://www.amazon.com/Winning-Mind-3rd-Ed/dp/1934324264" target="_blank">Book: With Winning In Mind</a></li>
+                <li><a href="https://riflemanspath.com/" target="_blank">Andy Slade, Rifleman’s Path</a></li>
+                <li><a href="https://www.shootsmallgroups.com/community/" target="_blank">Eric Cortina</a></li>
+                <li><a href="https://kestrelballistics.com/classes" target="_blank">Emil Praslick (Kestrel Seminar)</a></li>
+                <li>Everyone at each PRS Match I shoot</li></li>
+              </ul>
 
-                Everyone at each PRS Match I shoot
-              </p>
-
-                <span class="head">Communities I belong too:</span>
-                <p>
-                    <a href="https://www.facebook.com/groups/608520689301867" target="_blank">VPRC</a> Club Team<br>
-                    <a href="https://www.facebook.com/groups/alanticcoastregion/" target="_blank">PRS Atlantic Cost Conference</a><br>
-                    <a href="https://www.facebook.com/groups/precisionrifleseries" target="_blank">PRS Paid Members</a> <br>
-                </p>
+                <span class="head">Communities:</span>
+                <ul>
+                    <li><a href="https://www.facebook.com/groups/608520689301867" target="_blank">VPRC</a> Club Team</li>
+                    <li><a href="https://www.facebook.com/groups/alanticcoastregion/" target="_blank">PRS Atlantic Cost Conference</a></li>
+                    <li><a href="https://www.facebook.com/groups/precisionrifleseries" target="_blank">PRS Paid Members</a> </li>
+                </ul>
 
             </div>
         </div>
@@ -147,16 +136,41 @@ export default {
 <style scoped lang="scss">
 .dataColumns {
   display:flex;
-  margin:20px 0;
+  margin:10px 0;
 }
 .dataColumn {
   width:30%;
   padding:0 15px;
   .head {
     font-weight: 600;
-    font-size:16px;
-    margin-bottom:10px;
+    font-size:18px;
+    padding-bottom:5px;
     display:inline-block;
   }
 }
+ @media screen and (min-width: 320px) {
+  .dataColumns {
+    display:block;
+  }
+  .dataColumn {
+    width:80%;
+    margin:0 auto;
+    .head {
+      margin:20px 0 0;
+    }
+     ul {
+    margin: 5px 0 0 0;
+  }
+  li {
+    list-style:none;
+    padding: 0 0 2px 0;
+  }
+  }
+ }
+@media screen and (min-width:768px) {
+  .dataColumns {
+    display:flex;
+  }
+}
+
 </style>
