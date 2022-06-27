@@ -52,7 +52,7 @@
                 <li><a href="https://en.wikipedia.org/wiki/Lanny_Bassham" target="_blank">Lenny Bassham</a><br><a href="https://www.amazon.com/Winning-Mind-3rd-Ed/dp/1934324264" target="_blank">Book: With Winning In Mind</a></li>
                 <li><a href="https://www.shootsmallgroups.com/community/" target="_blank">Eric Cortina</a></li>
                 <li><a href="https://kestrelballistics.com/classes" target="_blank">Emil Praslick (Kestrel Seminar)</a></li>
-                <li>Everyone at each PRS Match I shoot</li>
+                <li>Everyone at each PRS Match I shoot.</li>
               </ul>
 
                 <span class="head">Communities:</span>
