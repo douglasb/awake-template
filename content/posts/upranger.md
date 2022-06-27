@@ -6,7 +6,7 @@ category:
   - For Sale
 author: Douglas Brown
 price: $215.00 shipped
-date: 2019-07-29T17:30:16.858Z
+date: 2022-06-26T19:59:59.000Z
 featureImage: /uploads/eberlestock-upranger.jpg
 ---
 # UpRanger | 215.00 Shipped
