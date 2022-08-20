@@ -1,15 +1,15 @@
 ---
-status: For Sale
+status: SOLD
 title: Annealeez Brass Annealer
 subtitle: No nonsense flame brass annealer
 category:
-  - For Sale
+  - SOLD
 author: Douglas Brown
 date: 2022-06-26T19:59:59.000Z
 featureImage: /uploads/annealeez-hero.jpg
 price: 205.00 shipped
 ---
-## Annealeeze Version 2 | 205.00 Shipped
+## Annealeeze Version 2 | SOLD
 
 This is a dependable unit that knocks out 100 rounds with little need for attention. I would routinely work on other projects at the bench while running the unit. I had some issues keeping the flame consistent using the small propane canisters so I would recommend hooking it up to a larger tank.
 
