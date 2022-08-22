@@ -30,6 +30,8 @@ Prices listed are fair and final and I'm not interested in negotiating so if you
 
 ![mpa-hybrid-chassis3!!](/uploads/mpahybrid3.jpg)
 
+![mpa-hybrid-chassis4!!](/uploads/mpaIncludedBolts.jpg)
+
 ## Purchase Process
 
 1. Payment via PayPal Friends only
