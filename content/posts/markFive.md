@@ -9,7 +9,7 @@ date: 2022-06-26T19:59:59.000Z
 featureImage: /uploads/markFiveHero.jpg
 price: 1390.00 shipped
 ---
-## Leopold Mark 5HD 7-35X56 MOA | 1390.00 Shipped
+## Leopold Mark 5HD 7-35X56 MOA | 1390.00 Shipped with insurance
 
 35mm tube, FF Impact reticle 60 MOA. I'd keep this for my hunting rifle, but it's just too much glass for me.  It's outstanding for long distance shooting, like for F Class, which was the original intent when I bought the scope. Goals changed.  The optics are oustanding -- I'm shooting with a Athon Cronus and it's good, but not like this one. I'd buy another one and probably will down the road, but something more appropriate for hunting.  Leopold comes with a lifetime warranty. 
 
