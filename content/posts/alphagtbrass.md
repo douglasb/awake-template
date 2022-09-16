@@ -5,11 +5,11 @@ subtitle: Never Been Open
 category:
   - For Sale
 author: Douglas Brown
-price: $375.00 shipped
+price: $300.00 shipped
 date: 2022-09-26T19:59:59.000Z
 featureImage: /uploads/alphagtbrasshero.jpg
 ---
-# ALPHA Brass 6 GT SRP | 375.00 Shipped
+# ALPHA Brass 6 GT SRP | 300.00 Shipped
 
 I was going to give the 6 GT a try, and decided to stick with moving to the 6 Dasher. These have not been opened and are the same lot number. 
 
@@ -27,7 +27,7 @@ Primer pockets sized for small rifle primerscases for an all-in-one 3-Gun pack.
 | ------------------| ---------------------------------------------------- |
 | Condition         | New, never used                                   |
 | Blemishes         | None                                        |
-| Price             | $375 shipped                                    |
+| Price             | $300 shipped                                    |
 | Age               | Purchased 6/10/2021                                  |
 | Included          | Original Container                    |
 |                   |                                                      |
