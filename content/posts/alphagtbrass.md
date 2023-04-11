@@ -1,17 +1,17 @@
 ---
 status: For Sale
-title: 6mm Alpha GT SRP Brass
-subtitle: Never Been Open
+title: 490 6mm Alpha Dasher Brass OCD
+subtitle: New, some seals broken, 5 Cases Missing, 5 Cases Annealed
 category:
   - For Sale
 author: Douglas Brown
-price: $300.00 shipped
-date: 2022-09-26T19:59:59.000Z
-featureImage: /uploads/alphagtbrasshero.jpg
+price: $540.00 shipped
+date: 2022-11-26T19:59:59.000Z
+featureImage: /uploads/6dasherbrass.jpg
 ---
-# ALPHA Brass 6 GT SRP | 300.00 Shipped
+# 490 ALPHA Brass 6 DASHER OCD : SRP | 530.00 Shipped
 
-I was going to give the 6 GT a try, and decided to stick with moving to the 6 Dasher. These have not been opened and are the same lot number. 
+Stocking up on Dasher brass for 2023 and my new barrel, but decided to head in another direction. I've broken a few seals, but they are all new - minus 5 pieces from some neck sizing experiments and a sacrafile for the annealing code.  
 
 Prices listed are fair and final and I'm not interested in negotiating so if you're wanting to haggle don't reach out and waste your time and mine. 
 
@@ -20,21 +20,22 @@ Optimized Case Design with Optimized Case Head Technology
 
 Primer pockets sized for small rifle primerscases for an all-in-one 3-Gun pack.
 
-[Website link](https://alphamunitions.com/product/6mm-gt/)
+[Website link](https://alphamunitions.com/product/6mm-dasher/)
 
 ## The Details
 |                   |                                                      |
 | ------------------| ---------------------------------------------------- |
-| Condition         | New, never used                                   |
+| Condition         | New, never used, seal broken on 3, and 5 sacrifices for Annealing & Sizing |
 | Blemishes         | None                                        |
-| Price             | $300 shipped                                    |
-| Age               | Purchased 6/10/2021                                  |
+| Price             | $530 shipped                                    |
+| Age               | Purchased 9/12/2022  From Blue Collar Reloading      |
 | Included          | Original Container                    |
+| AMP Annealing     | Code: 143                          |
 |                   |                                                      |
 
-![upranger!!](/uploads/6gtbrass1.jpg)
+![upranger!!](/uploads/6mmDASHERAlpha.jpg)
 
-![upranger2!!](/uploads/6gtbrass2.jpg)
+![upranger2!!](/uploads/alphaDproduct1.jpg)
 
 ## Purchase Process
 
