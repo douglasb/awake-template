@@ -18,7 +18,6 @@ Prices listed are fair and final and I'm not interested in negotiating so if you
 ### Description from Alpha Munitions Website:
 Optimized Case Design with Optimized Case Head Technology
 
-Primer pockets sized for small rifle primerscases for an all-in-one 3-Gun pack.
 
 [Website link](https://alphamunitions.com/product/6mm-dasher/)
 
