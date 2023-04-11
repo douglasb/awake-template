@@ -18,6 +18,7 @@ Prices listed are fair and final and I'm not interested in negotiating so if you
 ### Description from Alpha Munitions Website:
 Optimized Case Design with Optimized Case Head Technology
 
+
 [Website link](https://alphamunitions.com/product/6mm-dasher/)
 
 ## The Details
