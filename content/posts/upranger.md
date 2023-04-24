@@ -5,11 +5,11 @@ subtitle: Used only once
 category:
   - For Sale
 author: Douglas Brown
-price: $215.00 shipped
+price: $250.00 shipped
 date: 2022-06-26T19:59:59.000Z
 featureImage: /uploads/eberlestock-upranger.jpg
 ---
-# UpRanger | 215.00 Shipped
+# UpRanger | 250.00 Shipped
 ### This is an awesome pack for PRS
 
 I found that I'm an old school and prefer a one chamber pack which seems to be personal preferece.  This is perfect for those who like to run highly organzied and it's very customizable with the added removable side pouches.
