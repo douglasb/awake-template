@@ -26,7 +26,7 @@ Inspired by a champion 3-Gunner who didn’t like the normal sequence of dismoun
 | ------------------| ---------------------------------------------------- |
 | Condition         | Lightly used                                   |
 | Blemishes         | None                                        |
-| Price             | $215 shipped                                    |
+| Price             | $250 shipped                                    |
 | Age               | Purchased 6/10/2021                                  |
 | Included          | Waistbelt and additional dividers                    |
 |                   |                                                      |
