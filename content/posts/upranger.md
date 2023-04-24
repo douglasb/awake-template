@@ -21,7 +21,7 @@ Inspired by a champion 3-Gunner who didn’t like the normal sequence of dismoun
 
 [Website link](https://eberlestock.com/products/upranger?_pos=3&_sid=03fb181d2&_ss=r)
 
-## The Details
+## The Details  
 |                   |                                                      |
 | ------------------| ---------------------------------------------------- |
 | Condition         | Lightly used                                   |
