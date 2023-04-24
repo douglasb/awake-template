@@ -12,7 +12,7 @@ featureImage: /uploads/eberlestock-upranger.jpg
 # UpRanger | 250.00 Shipped
 ### This is an awesome pack for PRS
 
-I found that I'm an old school and prefer a one chamber pack which seems to be personal preferece.  This is perfect for those who like to run highly organzied and it's very customizable with the added removable side pouches.
+I found that I'm an old school and prefer a one chamber pack which seems to be personal preferece.  This is perfect for those who like to run highly organzied and it's very customizable with the added removable side pouches.  I used it once in a PRS match.
 
 Prices listed are fair and final and I'm not interested in negotiating so if you're wanting to haggle don't reach out and waste your time and mine. 
 
