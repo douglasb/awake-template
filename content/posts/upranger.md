@@ -16,7 +16,7 @@ I found that I'm an old school and prefer a one chamber pack which seems to be p
 
 Prices listed are fair and final and I'm not interested in negotiating so if you're wanting to haggle don't reach out and waste your time and mine. 
 
-### Description from Eberlestock's website 
+### Description from Eberlestock's website
 Inspired by a champion 3-Gunner who didn’t like the normal sequence of dismounting a pack face-down and rolling the straps in the dirt, the R3 UpRanger™ changes the game. Drop the R3 on its polycarbonate outer face and unzip from the harness side for quick access to everything you need without unnecessary wear or dirt. Whether you use it for the range, or a durable and secure camera bag, the R3 UpRanger will take it all. Add on Sidewinder rifle cases for an all-in-one 3-Gun pack.
 
 [Website link](https://eberlestock.com/products/upranger?_pos=3&_sid=03fb181d2&_ss=r)
